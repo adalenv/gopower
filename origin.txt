@@ -1,0 +1,204 @@
+Uri: http://www.gopower.it/
+File Name: c:\Downloaded Web Sites\gopower.it\index.html
+Content Type: text/html
+
+Uri: http://www.gopower.it/wp-content/uploads/2018/03/photo-1519109798364-ba17c14731df-1673x1080.jpeg
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\uploads\2018\03\photo-1519109798364-ba17c14731df-1673x1080.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.gopower.it/wp-content/uploads/2018/03/banner_luce.jpg
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\uploads\2018\03\banner_luce.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.gopower.it/wp-content/uploads/2018/03/banner_consulenza.jpg
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\uploads\2018\03\banner_consulenza.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.gopower.it/wp-content/uploads/2018/03/banner_acquisto.jpg
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\uploads\2018\03\banner_acquisto.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.gopower.it/wp-content/themes/gopower/favicon.png
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\themes\gopower\favicon.png
+Content Type: image/png
+
+Uri: http://www.gopower.it/wp-content/plugins/cookie-notice/css/front.min.css
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\plugins\cookie-notice\css\front.min.css
+Content Type: text/css
+
+Uri: http://www.gopower.it/wp-content/themes/gopower/style.css
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\themes\gopower\style.css
+Content Type: text/css
+
+Uri: http://www.gopower.it/luce-gas/
+File Name: c:\Downloaded Web Sites\gopower.it\luce-gas\index.html
+Content Type: text/html
+
+Uri: http://www.gopower.it/servizi/servizio-di-consulenza/
+File Name: c:\Downloaded Web Sites\gopower.it\servizi\servizio-di-consulenza\index.html
+Content Type: text/html
+
+Uri: http://www.gopower.it/servizi/forniture-led/
+File Name: c:\Downloaded Web Sites\gopower.it\servizi\forniture-led\index.html
+Content Type: text/html
+
+Uri: http://www.gopower.it/contatti/assistenza-e-reclami/
+File Name: c:\Downloaded Web Sites\gopower.it\contatti\assistenza-e-reclami\index.html
+Content Type: text/html
+
+Uri: http://www.gopower.it/contatti/nuovi-clienti/
+File Name: c:\Downloaded Web Sites\gopower.it\contatti\nuovi-clienti\index.html
+Content Type: text/html
+
+Uri: http://www.gopower.it/azienda/
+File Name: c:\Downloaded Web Sites\gopower.it\azienda\index.html
+Content Type: text/html
+
+Uri: http://www.gopower.it/servizi/mba-sussidio-sanitario/
+File Name: c:\Downloaded Web Sites\gopower.it\servizi\mba-sussidio-sanitario\index.html
+Content Type: text/html
+
+Uri: http://www.gopower.it/luce-gas
+File Name: c:\Downloaded Web Sites\gopower.it\luce-gas.html
+Content Type: text/html
+
+Uri: http://www.gopower.it/sospensione-pagamenti-per-eventi-sismici/
+File Name: c:\Downloaded Web Sites\gopower.it\sospensione-pagamenti-per-eventi-sismici\index.html
+Content Type: text/html
+
+Uri: http://www.gopower.it/canone-rai/
+File Name: c:\Downloaded Web Sites\gopower.it\canone-rai\index.html
+Content Type: text/html
+
+Uri: http://www.gopower.it/wp-content/uploads/2018/03/reclamo.pdf
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\uploads\2018\03\reclamo.pdf
+Content Type: application/pdf
+
+Uri: http://www.gopower.it/privacy-policy/
+File Name: c:\Downloaded Web Sites\gopower.it\privacy-policy\index.html
+Content Type: text/html
+
+Uri: http://www.gopower.it/wp-content/themes/gopower/images/logo-white.svg
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\themes\gopower\images\logo-white.svg
+Content Type: image/svg+xml
+
+Uri: http://www.gopower.it/wp-content/themes/gopower/images/facebook.svg
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\themes\gopower\images\facebook.svg
+Content Type: image/svg+xml
+
+Uri: http://www.gopower.it/wp-content/themes/gopower/images/youtube.svg
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\themes\gopower\images\youtube.svg
+Content Type: image/svg+xml
+
+Uri: http://www.gopower.it/wp-content/themes/gopower/images/instagram.svg
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\themes\gopower\images\instagram.svg
+Content Type: image/svg+xml
+
+Uri: http://www.gopower.it/wp-content/themes/gopower/images/linkedin.svg
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\themes\gopower\images\linkedin.svg
+Content Type: image/svg+xml
+
+Uri: http://www.gopower.it/wp-content/plugins/cookie-notice/js/front.min.js
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\plugins\cookie-notice\js\front.min.js
+Content Type: application/javascript
+
+Uri: http://www.gopower.it/wp-content/themes/gopower/js/application.js
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\themes\gopower\js\application.js
+Content Type: application/javascript
+
+Uri: http://www.gopower.it/wp-content/themes/gopower/fonts/TitilliumTitle20.woff
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\themes\gopower\fonts\TitilliumTitle20.woff
+Content Type: font/x-woff
+
+Uri: http://www.gopower.it/wp-content/themes/gopower/fonts/TitilliumText25L-800wt.woff
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\themes\gopower\fonts\TitilliumText25L-800wt.woff
+Content Type: font/x-woff
+
+Uri: http://www.gopower.it/wp-content/themes/gopower/fonts/TitilliumText25L-400wt.woff
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\themes\gopower\fonts\TitilliumText25L-400wt.woff
+Content Type: font/x-woff
+
+Uri: http://www.gopower.it/wp-content/themes/gopower/images/arrow-submit.svg
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\themes\gopower\images\arrow-submit.svg
+Content Type: image/svg+xml
+
+Uri: http://www.gopower.it/wp-content/themes/gopower/images/icona-arrow.svg
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\themes\gopower\images\icona-arrow.svg
+Content Type: image/svg+xml
+
+Uri: http://www.gopower.it/wp-content/uploads/2018/03/banner_luce-gas.jpg
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\uploads\2018\03\banner_luce-gas.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.gopower.it/wp-content/uploads/2018/03/image-4.svg
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\uploads\2018\03\image-4.svg
+Content Type: image/svg+xml
+
+Uri: http://www.gopower.it/wp-content/uploads/2018/03/orologio.svg
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\uploads\2018\03\orologio.svg
+Content Type: image/svg+xml
+
+Uri: http://www.gopower.it/wp-content/uploads/2018/03/bandiera.svg
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\uploads\2018\03\bandiera.svg
+Content Type: image/svg+xml
+
+Uri: http://www.gopower.it/wp-content/themes/gopower/images/plus-gas.svg
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\themes\gopower\images\plus-gas.svg
+Content Type: image/svg+xml
+
+Uri: http://www.gopower.it/wp-content/themes/gopower/images/gas.svg
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\themes\gopower\images\gas.svg
+Content Type: image/svg+xml
+
+Uri: http://www.gopower.it/wp-content/themes/gopower/images/icon-placet.svg
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\themes\gopower\images\icon-placet.svg
+Content Type: image/svg+xml
+
+Uri: http://www.gopower.it/wp-content/uploads/2018/03/banner_page-consulenza.jpg
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\uploads\2018\03\banner_page-consulenza.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.gopower.it/wp-content/plugins/contact-form-7/includes/css/styles.css
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: http://www.gopower.it/wp-content/plugins/contact-form-7/includes/js/scripts.js
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\plugins\contact-form-7\includes\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://www.gopower.it/wp-content/uploads/2018/03/banner_consulenza-int.jpg
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\uploads\2018\03\banner_consulenza-int.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.gopower.it/wp-content/uploads/2018/03/banner_azienda.jpg
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\uploads\2018\03\banner_azienda.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.gopower.it/wp-content/uploads/2018/03/image-5.svg
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\uploads\2018\03\image-5.svg
+Content Type: image/svg+xml
+
+Uri: http://www.gopower.it/wp-content/uploads/2018/03/group.svg
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\uploads\2018\03\group.svg
+Content Type: image/svg+xml
+
+Uri: http://www.gopower.it/wp-content/uploads/2018/03/immagine-mba.jpg
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\uploads\2018\03\immagine-mba.jpeg
+Content Type: image/jpeg
+
+Uri: http://www.gopower.it/wp-content/uploads/2018/03/Allegato_1.pdf
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\uploads\2018\03\Allegato_1.pdf
+Content Type: application/pdf
+
+Uri: http://www.gopower.it/wp-content/uploads/2018/03/Allegato_2.pdf
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\uploads\2018\03\Allegato_2.pdf
+Content Type: application/pdf
+
+Uri: http://www.gopower.it/wp-content/uploads/2018/03/Allegato_2bis.pdf
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\uploads\2018\03\Allegato_2bis.pdf
+Content Type: application/pdf
+
+Uri: http://www.gopower.it/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+File Name: c:\Downloaded Web Sites\gopower.it\wp-content\plugins\contact-form-7\images\ajax-loader.gif
+Content Type: image/gif
+
